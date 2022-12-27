@@ -1,4 +1,4 @@
-package com.anushka.roomdemo
+package com.ap.roomdemo
 
 import org.junit.Test
 

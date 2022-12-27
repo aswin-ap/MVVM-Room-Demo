@@ -1,4 +1,4 @@
-package com.anushka.roomdemo
+package com.ap.roomdemo
 
 import android.os.Bundle
 import android.widget.Toast
@@ -7,10 +7,10 @@ import androidx.databinding.DataBindingUtil
 import androidx.lifecycle.Observer
 import androidx.lifecycle.ViewModelProvider
 import androidx.recyclerview.widget.LinearLayoutManager
-import com.anushka.roomdemo.databinding.ActivityMainBinding
-import com.anushka.roomdemo.db.Subscriber
-import com.anushka.roomdemo.db.SubscriberDatabase
-import com.anushka.roomdemo.db.SubscriberRepository
+import com.ap.roomdemo.databinding.ActivityMainBinding
+import com.ap.roomdemo.db.Subscriber
+import com.ap.roomdemo.db.SubscriberDatabase
+import com.ap.roomdemo.db.SubscriberRepository
 
 class MainActivity : AppCompatActivity() {
     private lateinit var binding: ActivityMainBinding

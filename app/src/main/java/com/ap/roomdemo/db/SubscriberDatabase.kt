@@ -1,4 +1,4 @@
-package com.anushka.roomdemo.db
+package com.ap.roomdemo.db
 
 import android.content.Context
 import androidx.room.Database

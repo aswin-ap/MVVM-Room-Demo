@@ -1,9 +1,9 @@
-package com.anushka.roomdemo
+package com.ap.roomdemo
 
 import android.util.Patterns
 import androidx.lifecycle.*
-import com.anushka.roomdemo.db.Subscriber
-import com.anushka.roomdemo.db.SubscriberRepository
+import com.ap.roomdemo.db.Subscriber
+import com.ap.roomdemo.db.SubscriberRepository
 import kotlinx.coroutines.Dispatchers
 import kotlinx.coroutines.launch
 import kotlinx.coroutines.withContext

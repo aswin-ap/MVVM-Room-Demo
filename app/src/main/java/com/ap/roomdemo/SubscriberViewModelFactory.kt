@@ -1,8 +1,8 @@
-package com.anushka.roomdemo
+package com.ap.roomdemo
 
 import androidx.lifecycle.ViewModel
 import androidx.lifecycle.ViewModelProvider
-import com.anushka.roomdemo.db.SubscriberRepository
+import com.ap.roomdemo.db.SubscriberRepository
 
 class SubscriberViewModelFactory(private val repository: SubscriberRepository) :
     ViewModelProvider.Factory {
